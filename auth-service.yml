@@ -3,6 +3,3 @@ server:
   
 some:
   key: two
-  
-springdoc:
-  packagesToScan: com.app
