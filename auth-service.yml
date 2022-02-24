@@ -2,4 +2,4 @@ server:
   port: 9501
   
 some:
-  key: 1,2,3
+  key: two
