@@ -5,6 +5,9 @@ spring:
     port: 6379
     timeout: 50ms
     database: 0
+
+springdoc:
+  packagesToScan: com.app
     
 eureka:
   client:
