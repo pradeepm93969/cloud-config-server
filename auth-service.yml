@@ -1,5 +1,5 @@
 server:
-  port: 9501
+  port: 0
   
 some:
   key: two
